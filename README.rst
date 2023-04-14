@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+Manual Model C
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
 
-Read the tutorial here:
+Explain the functions and purpose of Model C
 
-https://docs.readthedocs.io/en/stable/tutorial/
+It explains how it works and what features it has.
