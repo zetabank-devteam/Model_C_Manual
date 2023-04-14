@@ -1,4 +1,4 @@
-Manual Model D
+Manual Model C
 =======================================
 
 Explain the functions and purpose of Model C
